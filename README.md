@@ -6,11 +6,11 @@
 - 💪 I am extremely resistant to stress.
 - 🧠 People say that I have knowledge on almost every topic – this helps me strike up conversations easily.
 - 📚 I read a lot – out of pure curiosity, without compulsion.
-- 👨‍💻 I spend a lot of time learning programming and new technologies – it's my way of developing and having fun at the same time.
-- 🔎 If something interests me, I have to break it down into its constituent parts and understand it completely – preferably right away.
+- 👨‍💻 I spend a lot of time learning programming and new technologies.
+- 🔎 If something interests me, I have to learn more about it and understand it completely – preferably right away.
 - 🚁 I dream of getting my PPL(H) license – flying is a combination of freedom and precision for me.
 - 🎮 I love games that make you think – board games, computer games, strategy games... maybe a game of chess?
-- 🏎️ I am interested in classic cars – I appreciate the mechanics and craftsmanship of old solutions, electric cars don't convince me.
+- 🏎️ I am interested in cars with combustion engines – electric cars do not convince me.
 - ⚡️ I am fascinated by electronics – I often tinker and create something out of nothing.
 - 🎱 Want to go out somewhere? Take me to play pool – it's always a good idea.
 
@@ -20,7 +20,6 @@
 <img src="icons/css3.svg" width="32" />&nbsp;
 <img src="icons/sass.svg" width="32" />&nbsp;
 <img src="icons/tailwindcss.svg" width="32" />&nbsp;
-<img src="icons/jquery.svg" width="32" />&nbsp;
 <img src="icons/javascript.svg" width="32" />&nbsp;
 <img src="icons/typescript.svg" width="32" />&nbsp;
 <img src="icons/nodejs.svg" width="32" />&nbsp;
@@ -43,6 +42,8 @@
 <img src="icons/arduino.svg" width="32" />&nbsp;
 <img src="icons/raspberrypi.svg" width="32" />&nbsp;
 
+
+[//]: # (<img src="icons/jquery.svg" width="32" />&nbsp;)
 [//]: # (<img src="icons/prisma.svg" width="32" />&nbsp;)
 [//]: # (<img src="icons/pug.svg" width="32" />&nbsp;)
 [//]: # (<img src="icons/puppeteer.svg" width="32" />&nbsp;)
