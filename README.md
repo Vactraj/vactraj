@@ -5,10 +5,10 @@
 
 - 💪 I am extremely resistant to stress.
 - 🧠 People say that I have knowledge on almost every topic – this helps me strike up conversations easily.
-- 📚 I read a lot – out of pure curiosity, without compulsion.
+- 📚 I read a lot – out of pure curiosity.
 - 👨‍💻 I spend a lot of time learning programming and new technologies.
 - 🔎 If something interests me, I have to learn more about it and understand it completely – preferably right away.
-- 🚁 I dream of getting my PPL(H) license – flying is a combination of freedom and precision for me.
+- 🚁 I dream of getting my PPL(H) license – flying is a symbol of freedom for me.
 - 🎮 I love games that make you think – board games, computer games, strategy games... maybe a game of chess?
 - 🏎️ I am interested in cars with combustion engines – electric cars do not convince me.
 - ⚡️ I am fascinated by electronics – I often tinker and create something out of nothing.
